@@ -1,0 +1,19 @@
+[33800:11248:0321/144542.753:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[33800:20628:0321/144542.789:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[33800:11248:0321/144542.797:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[24304:10132:0321/144544.997:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-D91643A5E3637774743E0E85F1655231 will be ignored
+[33800:11248:0321/144548.595:ERROR:device_event_log_impl.cc(196)] [14:45:48.266] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[33800:11248:0321/145857.598:ERROR:device_event_log_impl.cc(196)] [14:58:57.596] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[33800:11248:0321/150516.352:ERROR:device_event_log_impl.cc(196)] [15:05:16.344] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[33800:11248:0321/152627.352:ERROR:device_event_log_impl.cc(196)] [15:26:27.345] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[33800:11248:0321/154904.939:ERROR:device_event_log_impl.cc(196)] [15:49:04.937] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[33800:11248:0321/160830.160:ERROR:device_event_log_impl.cc(196)] [16:08:30.158] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[33800:11248:0321/162234.593:ERROR:device_event_log_impl.cc(196)] [16:22:34.265] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[33800:11248:0321/162337.299:ERROR:device_event_log_impl.cc(196)] [16:23:37.238] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[33800:11248:0321/163215.699:ERROR:device_event_log_impl.cc(196)] [16:32:15.690] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[33800:11248:0321/165900.461:ERROR:device_event_log_impl.cc(196)] [16:59:00.459] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[33800:11248:0321/170757.815:ERROR:device_event_log_impl.cc(196)] [17:07:57.807] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[33800:11248:0321/172655.307:ERROR:device_event_log_impl.cc(196)] [17:26:55.304] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[33800:11248:0321/180447.357:ERROR:device_event_log_impl.cc(196)] [18:04:47.085] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[33800:11248:0321/180745.262:ERROR:device_event_log_impl.cc(196)] [18:07:44.960] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[33800:11248:0321/181252.693:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
