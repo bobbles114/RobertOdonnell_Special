@@ -1,2 +1,3 @@
-2026/03/21-14:45:42.838 8be4 Creating DB C:\School\Digital Game Design\RobertOdonnell_Special\Specialization\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
-2026/03/21-14:45:42.847 8be4 Reusing MANIFEST C:\School\Digital Game Design\RobertOdonnell_Special\Specialization\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/03-13:07:43.775 7cf4 Reusing MANIFEST C:\School\Digital Game Design\RobertOdonnell_Special\Specialization\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/03-13:07:43.783 7cf4 Recovering log #3
+2026/05/03-13:07:43.785 7cf4 Reusing old log C:\School\Digital Game Design\RobertOdonnell_Special\Specialization\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
